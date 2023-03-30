@@ -1,0 +1,7 @@
+# Core Package
+## Components
+Contains all shared components used by the entire app
+## Theme
+Contains all shared styles used by the entire app
+## Utils
+Contains all shared utilities used by the entire app
